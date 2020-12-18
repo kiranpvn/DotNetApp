@@ -1,0 +1,13 @@
+e:\KiranSolution\ConApp01\bin\Debug\netcoreapp3.1\ConApp01.exe
+e:\KiranSolution\ConApp01\bin\Debug\netcoreapp3.1\ConApp01.deps.json
+e:\KiranSolution\ConApp01\bin\Debug\netcoreapp3.1\ConApp01.runtimeconfig.json
+e:\KiranSolution\ConApp01\bin\Debug\netcoreapp3.1\ConApp01.runtimeconfig.dev.json
+e:\KiranSolution\ConApp01\bin\Debug\netcoreapp3.1\ConApp01.dll
+e:\KiranSolution\ConApp01\bin\Debug\netcoreapp3.1\ConApp01.pdb
+e:\KiranSolution\ConApp01\obj\Debug\netcoreapp3.1\ConApp01.csprojAssemblyReference.cache
+e:\KiranSolution\ConApp01\obj\Debug\netcoreapp3.1\ConApp01.AssemblyInfoInputs.cache
+e:\KiranSolution\ConApp01\obj\Debug\netcoreapp3.1\ConApp01.AssemblyInfo.cs
+e:\KiranSolution\ConApp01\obj\Debug\netcoreapp3.1\ConApp01.csproj.CoreCompileInputs.cache
+e:\KiranSolution\ConApp01\obj\Debug\netcoreapp3.1\ConApp01.dll
+e:\KiranSolution\ConApp01\obj\Debug\netcoreapp3.1\ConApp01.pdb
+e:\KiranSolution\ConApp01\obj\Debug\netcoreapp3.1\ConApp01.genruntimeconfig.cache
